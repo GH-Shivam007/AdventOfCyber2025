@@ -19,7 +19,7 @@ Each day focuses on a different security concept, including:
 
 * ✅ Build strong foundations
 * ✅ Create a public portfolio
-* ✅ Prepare for Network+ and Security+
+* ✅ Deliver a documented journey to juniors
 
 ---
 
